@@ -10,3 +10,9 @@
     transform: translate(-50%, -50%);
     width: 100%;
 }
+
+@media all and (max-width: 480px) {
+    .banner__titulo {
+        font-size: 3rem;
+    }
+}

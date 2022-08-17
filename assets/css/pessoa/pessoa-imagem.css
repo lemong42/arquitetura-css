@@ -19,3 +19,10 @@
 .pessoa__imagem--andreia {
     background-image: url('../../img/pessoas/andreia.jpg');
 }
+
+@media all and (max-width: 480px) {
+    .pessoa__imagem {
+        width: 200px;
+        height: 200px;
+    }
+}

@@ -5,3 +5,9 @@
     text-align: right;
     text-transform: lowercase;
 }
+
+@media all and (max-width: 480px) {
+    .rodape {
+        text-align: center;
+    }
+}

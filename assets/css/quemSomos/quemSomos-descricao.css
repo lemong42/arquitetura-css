@@ -3,3 +3,9 @@
     font-weight: 100;
     font-size: 1.75rem;
 }
+
+@media all and (max-width: 480px) {
+    .quem-somos__descricao {
+        font-size: 1.3rem;
+    }
+}

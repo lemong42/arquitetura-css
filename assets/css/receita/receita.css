@@ -2,6 +2,14 @@
     background: #fdfdfd;
     display: flex;
     flex-direction: column;
-    margin: 0 5rem 5rem 0;
+    margin-right: 5rem;
+    margin-bottom: 2rem;
     width: calc(25% - 5rem);
+}
+
+@media all and (max-width: 480px) {
+    .receita {
+        margin-right: 1px;
+        width: 100%;
+    }
 }

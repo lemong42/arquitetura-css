@@ -3,3 +3,9 @@
     height: calc(100vh - 72px);
     width: 100%;
 }
+
+@media all and (max-width: 480px) {
+    .banner__imagem {
+        height: calc(100vh - 51px);
+    }
+}

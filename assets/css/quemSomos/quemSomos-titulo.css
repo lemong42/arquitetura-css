@@ -4,3 +4,9 @@
     font-family: Pacifico, cursive;
     margin-bottom: 1rem;
 }
+
+@media all and (max-width: 480px) {
+    .quem-somos__titulo {
+        font-size: 2rem;
+    }
+}

@@ -1,5 +1,11 @@
 .pessoas {
     display: flex;
-    padding-top: 3rem;
     justify-content: space-around;
+    padding-top: 3rem;
+}
+
+@media all and (max-width: 480px) {
+    .pessoas {
+        flex-direction: column;
+    }
 }

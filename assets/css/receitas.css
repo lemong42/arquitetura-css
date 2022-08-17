@@ -4,3 +4,9 @@
     flex-wrap: wrap;
     padding: 5rem 0 0 5rem;
 }
+
+@media all and (max-width: 480px) {
+    .receitas {
+        padding: 25px 25px;
+    }
+}

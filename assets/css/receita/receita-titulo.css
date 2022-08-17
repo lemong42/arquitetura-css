@@ -1,3 +1,9 @@
 .receita__titulo {
     font-size: 1.4575rem;
 }
+
+@media all and (max-width: 480px) {
+    .receita__titulo {
+        font-size: 1.25rem;
+    }
+}

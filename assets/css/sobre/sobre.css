@@ -2,3 +2,9 @@
     text-align: center;
     padding: 2.5rem;
 }
+
+@media all and (max-width: 480px) {
+    .sobre {
+        padding: 2.5rem 1rem;
+    }
+}

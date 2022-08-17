@@ -2,3 +2,9 @@
     display: flex;
     flex-direction: column;
 }
+
+@media all and (max-width: 480px) {
+    .pessoa {
+        margin-bottom: 2rem;
+    }
+}
