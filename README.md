@@ -2,10 +2,10 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/lemong42/arquitetura-css?style=social)
 
-![image](https://user-images.githubusercontent.com/90742197/185270437-d58faf2c-bf7c-47f9-ba1b-c477feb3fa61.png)
+![Banner do site Fruta&Fruto](https://user-images.githubusercontent.com/90742197/185270437-d58faf2c-bf7c-47f9-ba1b-c477feb3fa61.png)
 
 <img alt="Shield de status finalizado" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=green&style=for-the-badge">
-<img alt="Shield de last update no dia 17.08.2022" src="http://img.shields.io/static/v1?label=LAST%20UPDATE&message=27.07.2022&color=blue&style=for-the-badge">
+<img alt="Shield de last update no dia 17.08.2022" src="http://img.shields.io/static/v1?label=LAST%20UPDATE&message=17.08.2022&color=blue&style=for-the-badge">
 
 Esse projeto foi desenvolvido para aprofundar meus conhecimentos em CSS e na arquitetura do CSS. O site desenvolvido visa divulgar receitas simples e rápidas para os usuários. Porém, apesar de ser visualmente simples, seu código está muito bem organizado, estruturado e padronizado para fácil edição.
 
@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido para aprofundar meus conhecimentos em CSS e na arq
 
 `Funcionalidade 2`: diferentes arquivos CSS para cada section do código, fazendo com que a edição de uma parte específica seja de fácil acesso.
 
-![image](https://user-images.githubusercontent.com/90742197/185270886-5733f476-56dc-4569-9b0d-f82e94bc5b90.png)
+![Print contendo todos os arquivos CSS](https://user-images.githubusercontent.com/90742197/185270886-5733f476-56dc-4569-9b0d-f82e94bc5b90.png)
 
 `Funcionalidade 3`: estilos organizados por ordem alfabética em todos os arquivos CSS.
 
